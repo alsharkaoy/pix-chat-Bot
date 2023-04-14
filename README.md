@@ -1,2 +1,2 @@
 # task1-pix-chat-Bot
- a simple chat bot using nlp / machine learning / python
+pix chat bot is a made by using ml , pythone and  pre-trained Natural Language Processing models the bot checks for key words in the input, then it goes to the article and it calculates which section of the article have more similarities with the words the user typed. If the question does not have anything related to the article, the bot will return the "I don't understand the question" response. 
